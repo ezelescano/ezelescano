@@ -1,5 +1,12 @@
 ### Hi there 👋
 <h1>Soy Ezequiel Lescano</h1>
+<h3> Quien soy?</h3>
+<p>Soy una persona que muy apasionada por lo que hace, despuès detrabajar 11 años en el transporte pùblico, decidì cambiar </p>
+<p>el rumbo de mi ida..</p>
+<p>Volvì a mi viejo amor de la secundaria, la programaciòn.
+Empecè investigando HTML, pero termine conociendo otras tecnologias.
+</p>
+
 <!-- 
 **ezelescano/ezelescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
