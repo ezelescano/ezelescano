@@ -6,6 +6,9 @@
 <p>Volvì a mi viejo amor de la secundaria, la programaciòn.
 Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 </p>
+<br>
+<h3>A dònde voy?</h3>
+<p>Estoy </p>
 
 <!-- 
 **ezelescano/ezelescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
