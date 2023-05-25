@@ -12,14 +12,8 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <br>
 <h3>Que tecnologias se?</h3>
 <ul>
- <li><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt=""html"></li>
- <li><img src="![imagen](https://github.com/ezelescano/ezelescano/assets/101808378/a77af5c3-6a53-4904-842b-8e1bccde5b48)
-" alt="css"></li>
- <li><img src="" alt=""></li>
- <li><img src="" alt=""></li>
- <li><img src="" alt=""></li>
- <li><img src="" alt=""></li>
- <li><img src="" alt=""></li>
+- ![html](https://www.flaticon.com/free-icon/html-5_919827)
+
 </ul>
 <!-- 
 **ezelescano/ezelescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
