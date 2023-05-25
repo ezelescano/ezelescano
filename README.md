@@ -13,7 +13,12 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <h3>Que tecnologias se?</h3>
 <ul>
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt="html"></li>
-
+ <li><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="css"></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
 </ul>
 <!-- 
 **ezelescano/ezelescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
