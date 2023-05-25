@@ -14,12 +14,11 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <ul>
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt=""html"></li>
  <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
- <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
- <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
- <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
- <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
- <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
- <li><img src="https://www.flaticon.com/free-icon/css_919826" alt="css"></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
+ <li><img src="" alt=""></li>
 </ul>
 <!-- 
 **ezelescano/ezelescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
