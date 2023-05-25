@@ -12,7 +12,7 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <br>
 <h3>Que tecnologias se?</h3>
 <ul>
- <li><img crs="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt=""html></img></li>
+ <li><img crs="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt=""html"></li>
  <li></li>
  <li></li>
  <li></li>
