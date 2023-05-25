@@ -14,9 +14,9 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <ul>
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt="html"></li>
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="css"></li>
- <li><img src="https://t3.ftcdn.net/jpg/02/49/94/34/240_F_249943490_P7KwlZJJuxfS3m85xPG6bkuAmFUhdiZs.jpg" alt="js"></li>
- <li><img src="" alt=""></li>
- <li><img src="" alt=""></li>
+ <li><img src="https://cdn-icons-png.flaticon.com/128/919/919828.png" alt="js"></li>
+ <li><img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="react"></li>
+ <li><img src="https://e7.pngegg.com/pngimages/522/1018/png-clipart-purple-atom-redux-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="redux"></li>
  <li><img src="" alt=""></li>
  <li><img src="" alt=""></li>
 </ul>
