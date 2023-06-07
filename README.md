@@ -14,16 +14,13 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <p>Me dirijo a seguir formandome y poder brindar mis servicios a la empresa y/o proyecto que lo requiera.</p>
 <br>
 <h3>Que tecnologias se?</h3>
-<ul>
-  <li>HTML.</li>
-  <li>CSS.</li>
-  <li>JavaScript.</li>
-  <li>React.</li>
-  <li>Redux.</li>
-  <li>PostgreSQL.</li>
-  <li>Sequelize.</li>
-  <li>Express.</li>
-</ul>
+ <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
+  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "react-native" />
+  <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
+  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  
 
 <p>Entre otras...</p>
 <br>
