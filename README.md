@@ -11,12 +11,14 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
 <p>Me dirijo a seguir formandome y poder brindar mis servicios a la empresa y/o proyecto que lo requiera.</p>
 <br>
 <h3>Que tecnologias se?</h3>
-- ![html](https://cdn-icons-png.flaticon.com/128/919/919827.png)
-- ![css](https://cdn-icons-png.flaticon.com/128/919/919826.png)
-- ![js](https://cdn-icons-png.flaticon.com/128/919/919828.png)
-- ![react](https://cdn-icons-png.flaticon.com/128/919/919851.png)
-- ![redux](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png)
-- ![postgresql](https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png)
+<ul style="list-style-type: none;">
+  <li style="margin-bottom: 10px;"><img src="https://cdn-icons-png.flaticon.com/128/919/919827.png" alt="html"></li>
+  <li style="margin-bottom: 10px;"><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="css"></li>
+  <li style="margin-bottom: 10px;"><img src="https://cdn-icons-png.flaticon.com/128/919/919828.png" alt="js"></li>
+  <li style="margin-bottom: 10px;"><img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="react"></li>
+  <li style="margin-bottom: 10px;"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" alt="redux"></li>
+  <li style="margin-bottom: 10px;"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png" alt="postgresql"></li>
+</ul>
 
 <p>Entre otras...</p>
 <!-- 
