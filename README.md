@@ -16,9 +16,8 @@ Empecè investigando HTML, pero termine enamorandome de otras tecnologias.
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919826.png" alt="css"></li>
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919828.png" alt="js"></li>
  <li><img src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="react"></li>
- <li><img src="https://e7.pngegg.com/pngimages/522/1018/png-clipart-purple-atom-redux-logo-icons-logos-emojis-tech-companies-thumbnail.png" alt="redux"></li>
- <li><img src="" alt=""></li>
- <li><img src="" alt=""></li>
+ <li><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/redux-512.png" alt="redux"></li>
+ <li><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/postgresql-512.png" alt="postgresql"></li>
 </ul>
 <!-- 
 **ezelescano/ezelescano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
