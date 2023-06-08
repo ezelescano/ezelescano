@@ -27,7 +27,7 @@ Empecé investigando HTML, pero terminé enamorandome de otras tecnologías.
 <h2>Proyectos:</h2>
 <h3>Urban Club</h3>
 <p>Este proyecto fue el último que hicimos en conjunto con compañeros del Bootcamp soyHenry.</p>
-<p>Se trata de una plataforma en la cual los artistas hurbanos puedan crear comunidad y poder promocionar sus eventos, y también poder ser contratados.</p>
+<p>Se trata de una plataforma en la cual los artistas urbanos puedan crear comunidad y poder promocionar sus eventos, y también poder ser contratados.</p>
 <a href="https://www.urbanclub.club">Link a página.</a>
 
 
