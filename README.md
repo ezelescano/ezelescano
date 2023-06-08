@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/eze-lescano83/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ezelescano"/></a>
   </p>
-<h3> Quin soy?</h3>
+<h3> Quien soy?</h3>
 <p>Soy una persona que muy apasionada por lo que hace, despuès de trabajar 11 años en el transporte pùblico, decidì cambiar </p>
 <p>el rumbo de mi vida..</p>
 <p>Volvì a un viejo amor de la secundaria, la programaciòn.
