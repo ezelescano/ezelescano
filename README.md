@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/eze-lescano83/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ezelescano"/></a>
   </p>
 <h3> Quién soy?</h3>
-<p>Soy una persona que muy apasionada por lo que hace, después de trabajar 11 años en el transporte público, decidí cambiar </p>
+<p>Soy una persona que es apasionada por lo que hace, después de trabajar 11 años en el transporte público, decidí cambiar </p>
 <p>el rumbo de mi vida..</p>
 <p>Volví a un viejo amor de la secundaria, la programación.
 Empecé investigando HTML, pero terminé enamorandome de otras tecnologías.
